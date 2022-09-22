@@ -11,8 +11,8 @@
 
 ## Technologies Used
 **Front-end development**: React, Javascript  
-**Back-end development**: Python with Flask
-**Image Processing**: Tensor-flow  
+**Back-end development**: Python with Flask   
+**Image Processing**: Tensor-flow    
 **Audio Processing**: AssemblyAI API, My-Voice-Analysis API Built upon Praatscript based library  
 **Natural Language Processing**: Cohere API  
 
